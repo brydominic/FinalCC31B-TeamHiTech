@@ -1,0 +1,78 @@
+C:\Users\Aaron\Documents\School\CC3\game\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Aaron\Documents\School\CC3\game\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\game\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\game\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\test GAME\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\Aaron\Downloads\testgame\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Aaron\Downloads\testgame\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Downloads\testgame\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Aaron\Downloads\testgame\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.g.resources
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.sourcelink.json
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\Engine\obj\Debug\net6.0\ref\Engine.dll

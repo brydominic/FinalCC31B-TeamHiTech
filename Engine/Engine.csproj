@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Items\ancientcompanion.png" />
+    <None Remove="Images\Items\cursedstaff.png" />
+    <None Remove="Images\Items\firesword.png" />
+    <None Remove="Images\Items\leafsword.png" />
+    <None Remove="Images\Items\mysticalamulet.png" />
+    <None Remove="Images\Items\mysticalglove.png" />
+    <None Remove="Images\Items\mysticalsword.png" />
+    <None Remove="Images\Items\potion.png" />
+    <None Remove="Images\Items\stick.png" />
+    <None Remove="Images\Items\watermagic.png" />
+    <None Remove="Images\Locations\cavernsofshadows.png" />
+    <None Remove="Images\Locations\cavernsofshadows2.png" />
+    <None Remove="Images\Locations\cityofancients.png" />
+    <None Remove="Images\Locations\cityofancients2.png" />
+    <None Remove="Images\Locations\crystallakeshore.png" />
+    <None Remove="Images\Locations\crystallakeshore2.png" />
+    <None Remove="Images\Locations\dragonspeak.png" />
+    <None Remove="Images\Locations\dragonspeak2.png" />
+    <None Remove="Images\Locations\enchantedforest.png" />
+    <None Remove="Images\Locations\enchantedforest2.png" />
+    <None Remove="Images\Locations\hauntedgraveyard.png" />
+    <None Remove="Images\Locations\hauntedgraveyard2.png" />
+    <None Remove="Images\Locations\home.png" />
+    <None Remove="Images\Locations\home2.png" />
+    <None Remove="Images\Locations\player.png" />
+    <None Remove="Images\Locations\skywardsummit.png" />
+    <None Remove="Images\Locations\skywardsummit2.png" />
+    <None Remove="Images\Locations\volcanicforge.png" />
+    <None Remove="Images\Locations\volcanicforge2.png" />
+    <None Remove="Images\Monsters\ancientguardian.png" />
+    <None Remove="Images\Monsters\cavetroll.png" />
+    <None Remove="Images\Monsters\firedragon.png" />
+    <None Remove="Images\Monsters\firegauntlet.png" />
+    <None Remove="Images\Monsters\forestimp.png" />
+    <None Remove="Images\Monsters\ghost.png" />
+    <None Remove="Images\Monsters\lavagolem.png" />
+    <None Remove="Images\Monsters\placeholder.jpg" />
+    <None Remove="Images\Monsters\randombguy.jpg" />
+    <None Remove="Images\Monsters\waterdragon.png" />
+    <None Remove="Images\Player\player.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Items\ancientcompanion.png" />
+    <Resource Include="Images\Items\cursedstaff.png" />
+    <Resource Include="Images\Items\firesword.png" />
+    <Resource Include="Images\Items\leafsword.png" />
+    <Resource Include="Images\Items\mysticalamulet.png" />
+    <Resource Include="Images\Items\mysticalglove.png" />
+    <Resource Include="Images\Items\mysticalsword.png" />
+    <Resource Include="Images\Items\watermagic.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Items\potion.png" />
+    <Resource Include="Images\Items\stick.png" />
+    <Resource Include="Images\Items\firegauntlet.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\Monsters\" />
+  </ItemGroup>
+
+</Project>

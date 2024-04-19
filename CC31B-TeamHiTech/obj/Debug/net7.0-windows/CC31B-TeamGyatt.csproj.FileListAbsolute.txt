@@ -1,0 +1,153 @@
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CopyComplete
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\Aaron\Downloads\CC31B-TeamGyatt-master\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CopyComplete
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\Aaron\Documents\School\CC3\test GAME\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CopyComplete
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.baml
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.baml
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CopyComplete
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\Aaron\Documents\School\CC3\1TEAMGYATT - Copy\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.g.cs
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.baml
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CopyComplete
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\Aaron\Downloads\testgame\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.exe
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.deps.json
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.runtimeconfig.json
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\bin\Debug\net7.0-windows\Engine.pdb
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.AssemblyReference.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.g.cs
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt_MarkupCompile.lref
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\TradeScreen.baml
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.g.resources
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfoInputs.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.AssemblyInfo.cs
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.csproj.CoreCompileInputs.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.sourcelink.json
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-Te.861F7F4A.Up2Date
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\refint\CC31B-TeamGyatt.dll
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.pdb
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\CC31B-TeamGyatt.genruntimeconfig.cache
+C:\Users\olpin\source\repos\CC31B-TeamGyatt\CC31B-TeamGyatt\obj\Debug\net7.0-windows\ref\CC31B-TeamGyatt.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTTsVDLsSVNGfniN6+3Cb4vX3CWZBnugnD5r7AktoF1C2I1Cswej6MSYwXnBgCJLr2VUc5aIOsTSkhbXw5YTIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olpin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\olpin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\olpin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

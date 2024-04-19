@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\CC31B-TeamHiTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\itemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\recipefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\viewmodels\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\traderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\questfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\factories\\monsterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1C155D-AE8B-4AA9-AE1F-C7858FCE3683}|CC31B-TeamHiTech.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\cc31b-teamhitech\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1C155D-AE8B-4AA9-AE1F-C7858FCE3683}|CC31B-TeamHiTech.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\models\\livingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEDCF85-6751-4A0B-B59B-4CEA9A998636}|..\\Engine\\Engine.csproj|c:\\users\\olpin\\source\\repos\\cc31b-teamgyatt\\engine\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\RecipeFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\RecipeFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\RecipeFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\RecipeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:29:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\Location.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Location.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:28:50.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\ItemFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\ItemFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\ItemFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\ItemFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonsterFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\MonsterFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\MonsterFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\MonsterFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\MonsterFactory.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\QuestFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\QuestFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\QuestFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\QuestFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\TraderFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\TraderFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\TraderFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\TraderFactory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorldFactory.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Factories\\WorldFactory.cs",
+              "RelativeToolTip": "..\\Engine\\Factories\\WorldFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\CC31B-TeamHiTech\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\CC31B-TeamHiTech\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LivingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\LivingEntity.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\LivingEntity.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\LivingEntity.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\LivingEntity.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAswKEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\ViewModels\\GameSession.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\ViewModels\\GameSession.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\ViewModels\\GameSession.cs",
+              "RelativeToolTip": "..\\Engine\\ViewModels\\GameSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\olpin\\source\\repos\\CC31B-TeamGyatt\\Engine\\Models\\Player.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Player.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:44:45.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
